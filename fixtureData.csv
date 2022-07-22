@@ -1,0 +1,12 @@
+Filton, UWE, 4:1
+Filton, FCC, np
+Filton, Page, np
+UWE, Filton, np
+UWE, FCC, np
+UWE, Page, 3:2
+FCC, Filton, np
+FCC, UWE, np
+FCC, Page, np
+Page, Filton, np
+Page, UWE, np
+Page, FCC, np
