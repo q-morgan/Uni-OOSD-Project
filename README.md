@@ -22,6 +22,12 @@ To run the application or contribute to the project, you need to have the follow
 * Admin Panel
 <img src="/images/MainView.png" width="450">
 
+* Viewer Panel
+<img src="/images/ViewerView.png" width="450">
+
+* Score Sheet Panel
+<img src="/images/ScoreView.png" width="450">
+
 
 
 
